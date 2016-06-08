@@ -63,7 +63,7 @@
             this.btnChooseDirect.Name = "btnChooseDirect";
             this.btnChooseDirect.Size = new System.Drawing.Size(320, 34);
             this.btnChooseDirect.TabIndex = 2;
-            this.btnChooseDirect.Text = "选择目录";
+            this.btnChooseDirect.Text = "请先选择目录";
             this.btnChooseDirect.UseVisualStyleBackColor = true;
             this.btnChooseDirect.Click += new System.EventHandler(this.btnChooseDirect_Click);
             // 
